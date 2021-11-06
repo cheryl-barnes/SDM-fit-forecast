@@ -1,30 +1,30 @@
 # Model complexity has contrasting benefits for hindcasting and forecasting species responses to climate change
 
-Cheryl L. Barnes
-School of Aquatic and Fishery Sciences, University of Washington
-Alaska Fisheries Science Center, National Marine Fisheries Service (NOAA)
-Alaska Regional Office, National Marine Fisheries Service (NOAA)
+<b> Cheryl L. Barnes </b><br>
+School of Aquatic and Fishery Sciences, University of Washington <br>
+Alaska Fisheries Science Center, National Marine Fisheries Service (NOAA) <br>
+Alaska Regional Office, National Marine Fisheries Service (NOAA) <br><br>
 
-Timothy E. Essington
-School of Aquatic and Fishery Sciences, University of Washington
+<b> Timothy E. Essington </b><br>
+School of Aquatic and Fishery Sciences, University of Washington <br><br>
 
-Jodi L. Pirtle
-Alaska Regional Office, National Marine Fisheries Service (NOAA)
+<b> Jodi L. Pirtle </b><br>
+Alaska Regional Office, National Marine Fisheries Service (NOAA) <br><br>
 
-Christopher N. Rooper
-Fisheries and Oceans Canada
+<b> Christopher N. Rooper </b><br>
+Fisheries and Oceans Canada <br><br>
 
-Edward A. Laman
-Alaska Fisheries Science Center, National Marine Fisheries Service (NOAA)
+<b> Edward A. Laman </b><br>
+Alaska Fisheries Science Center, National Marine Fisheries Service (NOAA) <br><br>
 
-Kirstin K. Holsman
-Alaska Fisheries Science Center, National Marine Fisheries Service (NOAA)
+<b> Kirstin K. Holsman </b><br>
+Alaska Fisheries Science Center, National Marine Fisheries Service (NOAA) <br><br>
 
-Kerim Y. Aydin
-Alaska Fisheries Science Center, National Marine Fisheries Service (NOAA)
+<b> Kerim Y. Aydin </b><br>
+Alaska Fisheries Science Center, National Marine Fisheries Service (NOAA) <br><br>
 
-James T. Thorson
-Alaska Fisheries Science Center, National Marine Fisheries Service (NOAA)
+<b> James T. Thorson </b><br>
+Alaska Fisheries Science Center, National Marine Fisheries Service (NOAA) <br><br>
 
 
 
