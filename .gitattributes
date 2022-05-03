@@ -4,3 +4,4 @@ Data/dynamic_model_grid.rda filter=lfs diff=lfs merge=lfs -text
 Data/static_model_grid.rda filter=lfs diff=lfs merge=lfs -text
 “*.rda” filter=lfs diff=lfs merge=lfs -text
 “Data/dynamic_model_grid.rda” filter=lfs diff=lfs merge=lfs -text
+Data/ROMS_NPZ_output.rda filter=lfs diff=lfs merge=lfs -text
