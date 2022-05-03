@@ -21,7 +21,7 @@
 
 # Script Objectives: 1) Adjust survey data to reflect region (Bering Sea), species (Arrowtooth Flounder and Walleye Pollock), and life stage (adults) of interest. 2) Prepare all model covariates (static and/or dynamic) to join with bottom trawl survey data (for model fitting) and uniform grid (for model predictions). Spatially-explicit but time-invariant habitat variables were provided by the Alaska Regional Office, NOAA Fisheries. Regional Ocean Modeling System (ROMS) hindcasts of bottom temperature (BT; degrees C) cold pool extent (CPE; sq. km) were provided by the Alaska Climate Integrated Modeling (ACLIM) Project (see https://github.com/kholsman/ACLIM2 for more information). 
 
-setwd("~/Documents/JISAO/GitHub/")
+setwd("~/Documents/JISAO/SDM-fit-forecast/")
 
 require(tidyverse)
 require(tidyr)
@@ -361,7 +361,7 @@ size.catch.adults$PA = as.numeric(size.catch.adults$adjN > 0)
     
 ##################################################################
 # Import and prepare covariate data:
-setwd("~/Documents/JISAO/GitHub/Data/")
+setwd("~/Documents/JISAO/SDM-fit-forecast/Data/")
 bathy = raster::raster("bathy", 
   crs="+proj=aea +lat_1=55 +lat_2=65 +lat_0=50 +lon_0=-154 +x_0=0 +y_0=0 +ellps=GRS80 +datum=NAD83 +units=m +no_defs") 
 slope = raster::raster("slope", 
@@ -420,7 +420,7 @@ covariate.rasters$whips = as.factor(as.character(as.numeric(covariate.rasters$wh
 # load("Data/covariate_rasters.rda")
 
 # Plot (Fig. S1):
-setwd("~/Documents/JISAO/GitHub/")  
+setwd("~/Documents/JISAO/SDM-fit-forecast/")  
 
 bathy_proj$depth = ifelse(bathy_proj$bathy > 1000, 1000, bathy_proj$bathy)
 Bathy = ggplot(data=world) +
@@ -508,8 +508,8 @@ ggsave(filename="Plots/covar_whips.png", plot=Whips, dpi=500, width=6.5, height=
 
 ##################################################################
 # Import ROMS hindcasts:
-load("Data/ROMS_NPZ_output.Rdata")
-load("Data/ROMS_station_metadata.Rdata")
+load("Data/ROMS_NPZ_output.rda")
+load("Data/ROMS_station_metadata.rda")
 
 # Extract and format bottom trawl survey-replicated station metadata:
 meta = ROMSNPZ_output$aclim_hindcast_201904$station_metadata
