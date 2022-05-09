@@ -291,7 +291,10 @@ sWEP.obs.pred = rbind(sWEP.obs.pred, sWEP)}
 sWEP_retro = as.data.frame(sWEP.obs.pred)
 sWEP_retro = sWEP_retro %>%
   filter(Year > fitted.through)
-    
+ 
+  save(sWEP_retro, file = "Analyses/sWEP_obs_pred_retro.rda")
+# load("Analyses/WEP_obs_pred_retro.rda")  
+  
 # presence-absence:
 pa.coef = NULL
 for(model in unique(sWEP_retro$fitted.through)) {

@@ -300,6 +300,9 @@ sATF_retro = as.data.frame(sATF.obs.pred)
 sATF_retro = sATF_retro %>%
   filter(Year > fitted.through)
 
+  save(sATF_retro, file = "Analyses/sATF_obs_pred_retro.rda")
+# load("Analyses/sATF_obs_pred_retro.rda")  
+  
 # presence-absence:
 pa.coef = NULL
 for(model in unique(sATF_retro$fitted.through)) {
