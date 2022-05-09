@@ -42,7 +42,7 @@ This project was funded through the Joint Institute for the Study of the Atmosph
 ## Acknowledgments
 The AFSC’s Resource Assessment and Conservation Engineering Division collected all bottom trawl survey data used in this study. Static model covariates were provided by the Alaska Regional Office’s Habitat Conservation Division. The Alaska Climate Integrated Modeling (ACLIM) project provided survey-replicated hindcasts of bottom temperature and cold pool extent. We thank Lyle Britt and Stan Kotwicki for assisting with data acquisition and interpretation. This manuscript was improved upon by comments from Margaret Siple, Andrew Allyn, and three anonymous reviewers. The findings and conclusions in this paper are solely those of the authors and do not necessarily represent the views of any affiliation previously listed.  <br><br>
 
-## References
+## References (Data Sources)
 Hermann AJ, GA Gibson, NA Bond, EN Curchitser, K Hedstrom, W Cheng, M Wang, PJ Stabeno, L Eisner, and KD Cieciel. 2013. A multivariate analysis of observed and modeled biophysical variability on the Bering Sea shelf: multidecadal hindcasts (1970-2009) and forecasts (2010-2040). Deep-Sea Res II: Top Stud Oceanogr. 94:121–139.<br><br>
 Hoff GR. 2016. Results of the 2016 eastern Bering Sea upper continental slope survey of groundfish and invertebrate resources. US Dep Comm NOAA Tech Memo. NMFS AFSC-339. 272 pp.<br><br>
 Kearney K, A Hermann, W Cheng, I Ortiz, and K Aydin. 2020. A coupled pelagic-benthic-sympagic biogeochemical model for the Bering Sea: documentation and validation of the BESTNPZ model (v2019.08.23) within a high-resolution regional ocean model. Geosci Model Dev. 13:597-650.<br><br>
@@ -54,6 +54,5 @@ Rooper CN, MF Sigler, P Goddard, P Malecha, R Towler, K Williams, R Wilborn, and
 Sigler MF, CN Rooper, GR Hoff, RP Stone, RA McConnaughey, and TK Wilderbuer. 2015. Faunal features of submarine canyons on the eastern Bering Sea slope. Mar Ecol Prog Ser. 526:21-40. <br><br>
 Stahl JP and GH Kruse. 2008. Spatial and temporal variability in size at maturity of Walleye Pollock in the Eastern Bering Sea. Trans Amer Fish Soc. 137:1543–1557. <br><br>
 Stevenson DE and RR Lauth. 2019. Bottom trawl surveys in the northern Bering Sea indicate recent shifts in the distribution of marine species. Polar Biol. 42:407–421. <br><br>
-Thorson JT. 2019. Forecast skill for predicting distribution shifts: a retrospective experiment for marine fishes in the Eastern Bering Sea. Fish Fish. 20:159–173. <br><br>
 Zimmermann M, MM Prescott, and CN Rooper. 2013. Smooth Sheet Bathymetry of the Aleutian Islands. US Dep Comm NOAA Tech Memo. NMFS-AFSC-250. 43pp. <br><br>
 Zimmermann M, and M Prescott. 2018. Bathymetry and Canyons of the Eastern Bering Sea Slope. Geosciences. 8:184. <br>
