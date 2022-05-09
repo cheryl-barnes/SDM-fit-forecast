@@ -809,6 +809,9 @@ d3ATF_retro_all$fitted.through = as.factor(d3ATF_retro_all$fitted.through)
 d3ATF_retro_all = d3ATF_retro_all %>%
   rename(Year = Year.x)
 
+  save(d3ATF_retro_all, file = "Analyses/d3ATF_obs_pred_retro.rda")
+# load("Analyses/d3ATF_obs_pred_retro.rda")  
+  
 # presence-absence:
 pa.obs.pred.cor_all = NULL
 for(model in unique(d3ATF_retro_all$fitted.through)) {
