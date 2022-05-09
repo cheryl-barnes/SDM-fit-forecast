@@ -1,7 +1,6 @@
 ## Climate-informed models benefit hindcasting but present challenges when forecasting species-habitat associations
 
-### Citation
-Barnes CL, Essington TE, Pirtle JP, Rooper CN, Laman EA, Holsman KK, Aydin KY, and Thorson JT. In revision. Climate-informed models benefit hindcasting but present challenges when forecasting species-habitat associations. Ecogr. Forthcoming. <br><br>
+### Citation: Barnes CL, Essington TE, Pirtle JP, Rooper CN, Laman EA, Holsman KK, Aydin KY, and Thorson JT. In revision. Climate-informed models benefit hindcasting but present challenges when forecasting species-habitat associations. Ecogr. Forthcoming. <br><br>
 
 <b> Cheryl L. Barnes </b><br>
 School of Aquatic and Fishery Sciences, University of Washington <br>
@@ -32,19 +31,19 @@ Alaska Fisheries Science Center, National Marine Fisheries Service (NOAA) <br><b
 ## Overview
 This repository details the methods used to:
 a) Identify best-fit generalized additive models (GAMs) for hindcasting (based on conventional statistics) and evaluate forecast skill (based on retrospective skill testing; Thorson 2019) for presence-absence, numerical abundance, and biomass of groundfishes in the Bering Sea (1982-2018); and
-b) Compare species distribution models (SDMs) with varying degrees of complexity to assess whether the addition of time-varying processes to status quo static SDMs improves hindcast performance and/or forecast skill.
+b) Compare species distribution models (SDMs) with varying degrees of complexity to assess whether the addition of time-varying processes to status quo static SDMs improves hindcast performance and/or forecast skill. <br><br>
 
 ## Case Study:
-Arrowtooth Flounder (<i>Atheresthes stomias</i>) and Walleye Pollock (<i>Gadus chalcogrammus</i>) in the Bering Sea (1990 to 2018). 
+Arrowtooth Flounder (<i>Atheresthes stomias</i>) and Walleye Pollock (<i>Gadus chalcogrammus</i>) in the Bering Sea (1990 to 2018). <br><br>
 
-# Model Structure:
-Static models rely on spatially-explicit but time-invariant environmental conditions whereas dynamic refer to those that account for spatial and temporal variation in select model covariates. Covariates included in each model type: S (static) – spatial variation, long-term mean bottom temperature, and static habitat covariates; D1 (simple dynamic) – spatial variation, location- and Year-specific bottom temperature, interannual index of cold pool extent, and static habitat covariates; D2 (intermediate dynamic) – D1 covariates plus temporal variation; D3 (complex dynamic) – D2 covariates plus spatiotemporal variation. 
+## Model Structure:
+Static models rely on spatially-explicit but time-invariant environmental conditions whereas dynamic refer to those that account for spatial and temporal variation in select model covariates. Covariates included in each model type: S (static) – spatial variation, long-term mean bottom temperature, and static habitat covariates; D1 (simple dynamic) – spatial variation, location- and Year-specific bottom temperature, interannual index of cold pool extent, and static habitat covariates; D2 (intermediate dynamic) – D1 covariates plus temporal variation; D3 (complex dynamic) – D2 covariates plus spatiotemporal variation. <br><br>
 
 ## Financial and Logistical Support
-This project was funded through the Joint Institute for the Study of the Atmosphere and Ocean (JISAO) under NOAA Cooperative Agreement NA15OAR4320063 and through the Cooperative Institute for Climate, Ocean, & Ecosystem Studies (CIOCES) under NOAA Cooperative Agreement NA20OAR4320271: Contribution No. 2021-1170. Financial support originated from NOAA’s internal request for Magnuson-Stevens Act Implementation proposals. Facilities, equipment, and in-kind support were provided by the University of Washington, the Alaska Fisheries Science Center (NOAA), and Alaska Regional Office (NOAA).
+This project was funded through the Joint Institute for the Study of the Atmosphere and Ocean (JISAO) under NOAA Cooperative Agreement NA15OAR4320063 and through the Cooperative Institute for Climate, Ocean, & Ecosystem Studies (CIOCES) under NOAA Cooperative Agreement NA20OAR4320271: Contribution No. 2021-1170. Financial support originated from NOAA’s internal request for Magnuson-Stevens Act Implementation proposals. Facilities, equipment, and in-kind support were provided by the University of Washington, the Alaska Fisheries Science Center (NOAA), and Alaska Regional Office (NOAA). <br><br>
 
 ## Acknowledgments
-The AFSC’s Resource Assessment and Conservation Engineering Division collected all bottom trawl survey data used in this study. Static model covariates were provided by the Alaska Regional Office’s Habitat Conservation Division. The Alaska Climate Integrated Modeling (ACLIM) project provided survey-replicated hindcasts of bottom temperature and cold pool extent. We thank Lyle Britt and Stan Kotwicki for assisting with data acquisition and interpretation. This manuscript was improved upon by comments from Margaret Siple, Andrew Allyn, and three anonymous reviewers. The findings and conclusions in this paper are solely those of the authors and do not necessarily represent the views of any affiliation previously listed.  <br>
+The AFSC’s Resource Assessment and Conservation Engineering Division collected all bottom trawl survey data used in this study. Static model covariates were provided by the Alaska Regional Office’s Habitat Conservation Division. The Alaska Climate Integrated Modeling (ACLIM) project provided survey-replicated hindcasts of bottom temperature and cold pool extent. We thank Lyle Britt and Stan Kotwicki for assisting with data acquisition and interpretation. This manuscript was improved upon by comments from Margaret Siple, Andrew Allyn, and three anonymous reviewers. The findings and conclusions in this paper are solely those of the authors and do not necessarily represent the views of any affiliation previously listed.  <br><br>
 
 ## References
 Hermann AJ, GA Gibson, NA Bond, EN Curchitser, K Hedstrom, W Cheng, M Wang, PJ Stabeno, L Eisner, and KD Cieciel. 2013. A multivariate analysis of observed and modeled biophysical variability on the Bering Sea shelf: multidecadal hindcasts (1970-2009) and forecasts (2010-2040). Deep-Sea Res II: Top Stud Oceanogr. 94:121–139.
