@@ -5,25 +5,25 @@
 <b> Cheryl L. Barnes </b><br>
 School of Aquatic and Fishery Sciences, University of Washington <br>
 Alaska Fisheries Science Center, National Marine Fisheries Service (NOAA) <br>
-Alaska Regional Office, National Marine Fisheries Service (NOAA) <br><br>
+Alaska Regional Office, National Marine Fisheries Service (NOAA) <br>
 
 <b> Timothy E. Essington </b><br>
-School of Aquatic and Fishery Sciences, University of Washington <br><br>
+School of Aquatic and Fishery Sciences, University of Washington <br>
 
 <b> Jodi L. Pirtle </b><br>
-Alaska Regional Office, National Marine Fisheries Service (NOAA) <br><br>
+Alaska Regional Office, National Marine Fisheries Service (NOAA) <br>
 
 <b> Christopher N. Rooper </b><br>
-Fisheries and Oceans Canada <br><br>
+Fisheries and Oceans Canada <br>
 
 <b> Edward A. Laman </b><br>
-Alaska Fisheries Science Center, National Marine Fisheries Service (NOAA) <br><br>
+Alaska Fisheries Science Center, National Marine Fisheries Service (NOAA) <br>
 
 <b> Kirstin K. Holsman </b><br>
-Alaska Fisheries Science Center, National Marine Fisheries Service (NOAA) <br><br>
+Alaska Fisheries Science Center, National Marine Fisheries Service (NOAA) <br>
 
 <b> Kerim Y. Aydin </b><br>
-Alaska Fisheries Science Center, National Marine Fisheries Service (NOAA) <br><br>
+Alaska Fisheries Science Center, National Marine Fisheries Service (NOAA) <br>
 
 <b> James T. Thorson </b><br>
 Alaska Fisheries Science Center, National Marine Fisheries Service (NOAA) <br><br>
