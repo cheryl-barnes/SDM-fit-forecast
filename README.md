@@ -1,6 +1,6 @@
 ## Climate-informed models benefit hindcasting but present challenges when forecasting species-habitat associations
 
-# Citation: Barnes CL, Essington TE, Pirtle JP, Rooper CN, Laman EA, Holsman KK, Aydin KY, and Thorson JT. In revision. Climate-informed models benefit hindcasting but present challenges when forecasting species-habitat associations. Ecogr. Forthcoming. <br><br>
+#### Citation: Barnes CL, Essington TE, Pirtle JP, Rooper CN, Laman EA, Holsman KK, Aydin KY, and Thorson JT. In revision. Climate-informed models benefit hindcasting but present challenges when forecasting species-habitat associations. Ecogr. Forthcoming. <br><br>
 
 <b> Cheryl L. Barnes </b><br>
 School of Aquatic and Fishery Sciences, University of Washington <br>
